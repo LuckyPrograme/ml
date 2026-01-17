@@ -1,7 +1,7 @@
 from pathlib import Path
 
 # ХРАНИТСЯ В РЕПОЗИТОРИИ
-KEY_PREFIX = "AIzaSyBhsae0N8Z09lTvXDbDbZ48gnpqbrb"  # всё, кроме 4 последних
+KEY_PREFIX = ""
 
 KEY_FILE = Path.home() / ".gemini_last5"
 
